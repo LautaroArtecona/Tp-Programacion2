@@ -42,7 +42,7 @@ Para resolver los requerimientos, se implementaron los siguientes patrones:
 **Solución:** Se usó **Strategy** para intercambiar la forma de atender en tiempo de ejecución y **Singleton** para garantizar una única instancia de cada criterio compartida por todos los doctores.
 
 ## 📊 Diagramas UML
-*(Puedes ver los diagramas completos en la carpeta `/docs` o `/diagrams` de este repositorio)*
+*(Puedes ver los diagramas completos en el repositorio)*
 
 ### Diagrama de Clases
 ![Diagrama de Clases](CLASES.jpg)
